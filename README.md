@@ -2,6 +2,10 @@
 
 SmartPark 360 is a smart parking management system designed to help users find and manage parking spaces efficiently.
 
+## Live Demo
+
+[Open SmartPark 360](https://smartpark-360-mp7gpjcwkdvycyvrr9cuzn.streamlit.app/)
+
 ## Features
 
 - 🅿️ Smart parking space management
